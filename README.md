@@ -1,4 +1,7 @@
 # ProjectFinal
+Originally wanted to add functionality that would allow the user to block certain users based on their IP address. This proved to be more difficult than
+expected. So, I just added a functionality of the chat window, which allows the user to look at previous chats.
+
 
 Hosting URL - https://tinder-clone-34cb5.web.app/
 
